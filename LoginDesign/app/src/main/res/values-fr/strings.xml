@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginDesign Fr</string>
+    <string name="username">Username Fr</string>
+    <string name="password">Password Fr</string>
+    <string name="login">Login Fr</string>
+    <string name="help">Help Fr</string>
+</resources>
